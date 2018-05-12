@@ -2,7 +2,7 @@ package aws
 
 import "fmt"
 
-func NodePlacement(region string, av_zones []string) {
+func NodePlacement(region string, availabilityZones []string) {
 
 	fmt.Println("Node Placment Program")
 }
